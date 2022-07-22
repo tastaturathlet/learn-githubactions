@@ -1,0 +1,8 @@
+de/tastaturathlet/document/config/JpaAuditingConfig.class
+de/tastaturathlet/document/web/rest/util/HeaderUtil.class
+de/tastaturathlet/document/repository/DocumentRepository.class
+de/tastaturathlet/document/web/rest/DocumentController.class
+de/tastaturathlet/document/config/AuditorAwareImpl.class
+de/tastaturathlet/document/domain/Document.class
+de/tastaturathlet/document/config/DateTimeProviderImpl.class
+de/tastaturathlet/document/DocumentApplication.class

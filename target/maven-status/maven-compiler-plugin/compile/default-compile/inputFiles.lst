@@ -1,0 +1,8 @@
+/Users/mikeremde/athlet/learn-githubactions/src/main/java/de/tastaturathlet/document/repository/DocumentRepository.java
+/Users/mikeremde/athlet/learn-githubactions/src/main/java/de/tastaturathlet/document/config/DateTimeProviderImpl.java
+/Users/mikeremde/athlet/learn-githubactions/src/main/java/de/tastaturathlet/document/DocumentApplication.java
+/Users/mikeremde/athlet/learn-githubactions/src/main/java/de/tastaturathlet/document/config/JpaAuditingConfig.java
+/Users/mikeremde/athlet/learn-githubactions/src/main/java/de/tastaturathlet/document/config/AuditorAwareImpl.java
+/Users/mikeremde/athlet/learn-githubactions/src/main/java/de/tastaturathlet/document/domain/Document.java
+/Users/mikeremde/athlet/learn-githubactions/src/main/java/de/tastaturathlet/document/web/rest/util/HeaderUtil.java
+/Users/mikeremde/athlet/learn-githubactions/src/main/java/de/tastaturathlet/document/web/rest/DocumentController.java
